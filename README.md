@@ -1,8 +1,6 @@
 # Information_Retrival_Lab
 
-The Practical Exercise for thr University Course for 
-
-Information Retrieval in High Dimensional Data
+The Practical Exercise for thr University Course for Information Retrieval in High Dimensional Data
 
 Course Description: 
 
